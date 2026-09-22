@@ -1,0 +1,6 @@
+<?php
+require_once 'db.php';
+$tables = rows($conn,"SELECT TABLE_NAME FROM information_schema.TABLES WHERE TABLE_SCHEMA=? AND TABLE_TYPE='BASE TABLE' ORDER BY TABLE_NAME",'s',$database);
+$required=['states','districts','crops','varieties','genomic_profiles','soil_profiles','weather_current','climate_normals','weather_monthly','historical_yields','yield_forecasts','recommendation_scores','crop_rotation_history','climate_forecasts','variety_risk_scores','variety_environment_suitability'];
+$names=array_column($tables,'TABLE_NAME');
+?><!doctype html><html><head><meta charset="utf-8"><title>GeneCrop DB Test</title><link rel="stylesheet" href="css/style.css"></head><body><div class="db-test"><h1>GeneCrop AI Database Test</h1><div class="test-ok">✓ Connected to <strong><?=h($database)?></strong> on port <strong><?=h($port)?></strong></div><p><?=count($names)?> tables found.</p><div class="data-table"><div class="table-row table-header"><span>Required table</span><span>Status</span></div><?php foreach($required as $t):?><div class="table-row"><span><?=h($t)?></span><strong><?=in_array($t,$names,true)?'✓ Present':'✗ Missing'?></strong></div><?php endforeach;?></div><p style="margin-top:20px"><a href="index.php">← Open Dashboard</a></p></div></body></html>
