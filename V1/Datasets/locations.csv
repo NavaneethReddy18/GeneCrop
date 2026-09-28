@@ -1,0 +1,16 @@
+location_id,location_name,state,country,latitude,longitude
+1,Punjab,Punjab,India,31.1471,75.3412
+2,Haryana,Haryana,India,29.0588,76.0856
+3,Andhra Pradesh,Andhra Pradesh,India,15.9129,79.74
+4,Telangana,Telangana,India,18.1124,79.0193
+5,Karnataka,Karnataka,India,15.3173,75.7139
+6,Maharashtra,Maharashtra,India,19.7515,75.7139
+7,Gujarat,Gujarat,India,22.2587,71.1924
+8,Rajasthan,Rajasthan,India,27.0238,74.2179
+9,Uttar Pradesh,Uttar Pradesh,India,26.8467,80.9462
+10,Tamil Nadu,Tamil Nadu,India,11.1271,78.6569
+11,Madhya Pradesh,Madhya Pradesh,India,22.9734,78.6569
+12,Odisha,Odisha,India,20.9517,85.0985
+13,West Bengal,West Bengal,India,22.9868,87.855
+14,Bihar,Bihar,India,25.0961,85.3131
+15,Uttarakhand,Uttarakhand,India,30.0668,79.0193

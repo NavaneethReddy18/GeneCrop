@@ -1,0 +1,40 @@
+Variety_ID,crop,variety,genes_or_qtl,trait_improved,average_yield_q_per_ha,maturity_days,suitability,recommended_area
+1,Rice,Improved Pusa Basmati 1,xa13; Xa21,Bacterial blight resistance,55.0,135,Irrigated Kharif,Punjab; Haryana; Delhi; Jammu; Uttarakhand; Uttar Pradesh
+2,Rice,Improved Samba Mahsuri,xa5; xa13; Xa21,Bacterial blight resistance,55.0,130,Irrigated Kharif,Andhra Pradesh; Telangana; Tamil Nadu; Karnataka; Maharashtra; Odisha; Chhattisgarh
+3,Rice,Improved Lalat,Xa4; xa5; xa13; Xa21,Bacterial blight resistance,47.5,130,Irrigated Kharif,Odisha
+4,Rice,PR 122,Xa4; xa13; Xa21,Bacterial blight resistance,79.0,147,Lowland irrigated Kharif,Punjab
+5,Rice,PR 121,Xa4; xa13; Xa21,Bacterial blight resistance,76.0,140,Lowland irrigated Kharif,Punjab
+6,Rice,Pusa Basmati 1728,xa13; Xa21,Bacterial blight resistance,41.8,145,Irrigated Kharif,Punjab; Haryana; Delhi; Jammu & Kashmir; Uttarakhand; Western Uttar Pradesh
+7,Rice,Punjab Basmati 3,xa13; Xa21,Bacterial blight resistance,40.8,139,Lowland irrigated Kharif,Punjab
+8,Rice,Pusa Basmati 1718,xa13; Xa21,Bacterial blight resistance,46.4,135,Irrigated Kharif,Punjab; Haryana; Delhi; Jammu & Kashmir; Uttarakhand; Western Uttar Pradesh
+9,Rice,PR 127,Xa45(t),Bacterial blight resistance,75.0,137,Lowland irrigated Kharif,Punjab
+10,Rice,DRR Dhan 59,Xa33,Bacterial blight resistance,55.0,129,Irrigated Kharif,Andhra Pradesh; Telangana; Tamil Nadu; Karnataka; Jharkhand
+11,Rice,Pusa 6 (Pusa 1612),Pi2; Pi54,Blast resistance,50.7,120,Irrigated Kharif,Punjab; Haryana; Delhi; Jammu & Kashmir
+12,Rice,DRR Dhan 62,Xa21; xa13; xa5; Pi2; Pi-54,Bacterial blight and blast resistance,42.0,132,Irrigated Kharif,Odisha; Jharkhand; Bihar; Chhattisgarh; Maharashtra; Gujarat; Andhra Pradesh; Telangana; Tamil Nadu; Karnataka
+13,Rice,Pusa Basmati 1847,Xa21; xa13; Pi2; Pi-54,Bacterial blight and blast resistance,57.0,120,Irrigated Kharif,Delhi; Punjab; Western Uttar Pradesh
+14,Rice,Pusa Basmati 1885,Xa21; xa13; Pi2; Pi54,Bacterial blight and blast resistance,47.0,145,Irrigated Kharif,Delhi; Haryana; Punjab
+15,Rice,Pusa Basmati 1886,Xa21; xa13; Pi2; Pi54,Bacterial blight and blast resistance,45.0,145,Irrigated Kharif,Haryana; Uttarakhand
+16,Rice,DRR Dhan 58,Xa21; xa13; xa5; qSaltol,Bacterial blight resistance and seedling-stage salinity tolerance,28.0 under salinity; 45.0 normal,129,Irrigated Kharif,Telangana; Andhra Pradesh; Tamil Nadu; Karnataka; Chhattisgarh; Odisha; Jharkhand; Bihar; Gujarat; Maharashtra
+17,Wheat,PBW 723 (Unnat PBW 343),Yr17; Yr40; Lr37; Lr57,Stripe and leaf rust resistance,58.0,155,Timely-sown irrigated Rabi,Punjab; Haryana; Delhi; Rajasthan; Western Uttar Pradesh; Jammu & Kashmir; Himachal Pradesh; Uttarakhand
+18,Wheat,PBW 771,Yr40; Lr57,Stripe and leaf rust resistance,54.0,120,Late-sown irrigated Rabi,Punjab; Haryana; Delhi; Rajasthan; Western Uttar Pradesh; Jammu & Kashmir; Himachal Pradesh; Uttarakhand
+19,Maize,Vivek QPM9,opaque2,High lysine and tryptophan,52.0,88,Irrigated Kharif,Jammu & Kashmir; Himachal Pradesh; Uttarakhand; North Eastern states; Maharashtra; Karnataka; Andhra Pradesh; Telangana; Tamil Nadu
+20,Maize,Pusa HM4 Improved,opaque2,High lysine and tryptophan,64.2,87,Irrigated Kharif,Punjab; Haryana; Delhi; Western Uttar Pradesh; Uttarakhand plains
+21,Maize,Pusa HM8 Improved,opaque2,High lysine and tryptophan,62.6,95,Irrigated Kharif,Andhra Pradesh; Tamil Nadu; Karnataka; Telangana; Maharashtra
+22,Maize,Pusa HM9 Improved,opaque2,High lysine and tryptophan,52.0,89,Irrigated Kharif,Bihar; Jharkhand; Odisha; West Bengal; Eastern Uttar Pradesh
+23,Maize,Pusa Vivek Hybrid-27 Improved,crtRB1,Provitamin-A,48.5,84,Irrigated Kharif,Bihar; Jharkhand; Odisha; West Bengal; Eastern Uttar Pradesh
+24,Maize,Pusa HQPM-5 Improved,crtRB1; lcyE,Provitamin-A; high lysine and tryptophan,72.6–75.1 NHZ/NWPZ; 53.4 NEPZ; 71.2 PZ; 51.2 CWZ,88–111 by zone,Irrigated Kharif,Across the country
+25,Maize,Pusa HQPM-7 Improved,crtRB1; lcyE,Provitamin-A; high lysine and tryptophan,74.5,97,Irrigated Kharif,Maharashtra; Karnataka; Andhra Pradesh; Telangana; Tamil Nadu
+26,Maize,Pusa Biofortified Maize Hybrid-1,crtRB1; lcyE,Provitamin-A; high lysine and tryptophan,76.2 NHZ; 54.4 NEPZ,107 NHZ; 86 NEPZ,Irrigated Kharif,Jammu & Kashmir; Himachal Pradesh; Uttarakhand; Meghalaya; Sikkim; Assam; Tripura; Nagaland; Manipur; Arunachal Pradesh; Bihar; Jharkhand; Odisha; Uttar Pradesh; West Bengal
+27,Pearl millet,HHB 67 Improved,qRSg1; qRSg4,Downy mildew resistance; moisture-stress resistance,20.1,65,Rainfed Kharif,Rajasthan; Gujarat; Haryana
+28,Pearl millet,HHB 67 Improved 2,qRSg3.1; qRSg4.2; qRSg6.1,Downy mildew resistance; drought tolerance,20.0,76,Rainfed Kharif,Rajasthan; Gujarat; Haryana
+29,Chickpea,Super Annigeri-1,foc4,Fusarium wilt resistance,18.4,105,Irrigated and rainfed Rabi,Andhra Pradesh; Karnataka; Maharashtra; Gujarat
+30,Chickpea,Pusa Chickpea 20211,foc1; foc3; foc4; foc5,Fusarium wilt resistance,22.9 under drought stress,108,Irrigated and rainfed Rabi,Madhya Pradesh; Maharashtra; Gujarat
+31,Chickpea,Pusa Chickpea 10216,QTL hotspot on LG4,Drought tolerance,14.8 under drought stress,106,Irrigated and rainfed Rabi,Madhya Pradesh; Chhattisgarh; Maharashtra; Gujarat; Bundelkhand Uttar Pradesh
+32,Soybean,NRC 127,Null allele of KTi3,Kunitz trypsin inhibitor free,18.0,104,Rainfed Kharif,Madhya Pradesh; Bundelkhand Uttar Pradesh; Rajasthan; Gujarat; Marathwada; Vidarbha
+33,Soybean,MACSNRC 1667,Null allele of KTi3,Kunitz trypsin inhibitor free,20.5,96,Irrigated and rainfed Kharif,Maharashtra; Karnataka; Telangana; Andhra Pradesh; Tamil Nadu
+34,Soybean,NRC 132,Null allele of lox2,Less beany flavour,22.9 SZ; 16.5 EZ,98 SZ; 104 EZ,Irrigated and rainfed Kharif,West Bengal; Bihar; Jharkhand; Chhattisgarh; Odisha; Maharashtra; Karnataka; Telangana; Andhra Pradesh; Tamil Nadu
+35,Soybean,NRC 142,Null allele of KTi3; lox2,Kunitz trypsin inhibitor free; less beany flavour,20.0 CZ; 22.4 SZ,97 CZ; 99 SZ,Irrigated and rainfed Kharif,Madhya Pradesh; Uttar Pradesh; Rajasthan; Gujarat; Maharashtra; Karnataka; Telangana; Andhra Pradesh; Tamil Nadu
+36,Soybean,NRCSL 1,Rymv,Yellow Mosaic Virus resistance,17.1,107,Irrigated and rainfed Kharif,West Bengal; Bihar; Jharkhand; Chhattisgarh; Odisha
+37,Soybean,NRC 138,Null allele of E1,Early maturity; YMV resistance,17.9,93,Irrigated and rainfed Kharif,Madhya Pradesh; Uttar Pradesh; Rajasthan; Gujarat; Maharashtra
+38,Groundnut,Girnar 4,ahFAD2a; ahFAD2b,High oleic acid,32.2 pod; 21.3 kernel,112,Irrigated and rainfed Kharif,Rajasthan; Karnataka; Gujarat; Tamil Nadu; Andhra Pradesh
+39,Groundnut,Girnar 5,ahFAD2a; ahFAD2b,High oleic acid,31.2 pod; 21.3 kernel,113,Irrigated and rainfed Kharif,Rajasthan; Karnataka; Gujarat; Tamil Nadu; Andhra Pradesh
